@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\etc\Embarcadero Delphi\Delphi Project Folder\Test\Unit1.dfm" source-language="ko-KR" target-language="ko-KR" datatype="delphiform" tool="ETM v10.0" ts="D:\etc\Embarcadero Delphi\Delphi Project Folder\Test\Unit1.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">44488.594537037</prop>
+        <prop prop-type="OrigDateTime">44488.5745833333</prop>
+        <prop prop-type="XlatDateTime">44488.5745833333</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">66</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:Form1.Left" resname="O:Form1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Top" resname="O:Form1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Caption" resname="O:Form1.Caption">
+        <source>'Form1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.ClientHeight" resname="O:Form1.ClientHeight">
+        <source>456</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.ClientWidth" resname="O:Form1.ClientWidth">
+        <source>839</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Color" resname="O:Form1.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Charset" resname="O:Form1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Color" resname="O:Form1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Height" resname="O:Form1.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Name" resname="O:Form1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Style" resname="O:Form1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Menu" resname="O:Form1.Menu">
+        <source>Menu1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.OldCreateOrder" resname="O:Form1.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.PopupMenu" resname="O:Form1.PopupMenu">
+        <source>PopMe1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.PixelsPerInch" resname="O:Form1.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.TextHeight" resname="O:Form1.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.Left" resname="O:Form1.O:ToolBar1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.Top" resname="O:Form1.O:ToolBar1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.Width" resname="O:Form1.O:ToolBar1.Width">
+        <source>839</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.Height" resname="O:Form1.O:ToolBar1.Height">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.Caption" resname="O:Form1.O:ToolBar1.Caption">
+        <source>'ToolBar1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.Images" resname="O:Form1.O:ToolBar1.Images">
+        <source>ImgList1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.TabOrder" resname="O:Form1.O:ToolBar1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TToolBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.O:ToolButton1.Left" resname="O:Form1.O:ToolBar1.O:ToolButton1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TToolButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.O:ToolButton1.Top" resname="O:Form1.O:ToolBar1.O:ToolButton1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TToolButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.O:ToolButton1.Caption" resname="O:Form1.O:ToolBar1.O:ToolButton1.Caption">
+        <source>'ToolButton1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TToolButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.O:ToolButton1.ImageIndex" resname="O:Form1.O:ToolBar1.O:ToolButton1.ImageIndex">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TToolButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ToolBar1.O:ToolButton1.PopupMenu" resname="O:Form1.O:ToolBar1.O:ToolButton1.PopupMenu">
+        <source>PopMe1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TToolButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.Images" resname="O:Form1.O:Menu1.Images">
+        <source>ImgList1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.Left" resname="O:Form1.O:Menu1.Left">
+        <source>104</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.Top" resname="O:Form1.O:Menu1.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.AutoHotkeys" resname="O:Form1.O:Menu1.O:File1.AutoHotkeys">
+        <source>maAutomatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.ImageIndex" resname="O:Form1.O:Menu1.O:File1.ImageIndex">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.ImageName" resname="O:Form1.O:Menu1.O:File1.ImageName">
+        <source>'ImageList1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:New1.Caption" resname="O:Form1.O:Menu1.O:File1.O:New1.Caption">
+        <source>'다른 서버 연결...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:New1.ShortCut" resname="O:Form1.O:Menu1.O:File1.O:New1.ShortCut">
+        <source>24643</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:New1.OnClick" resname="O:Form1.O:Menu1.O:File1.O:New1.OnClick">
+        <source>New1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:Open1.Caption" resname="O:Form1.O:Menu1.O:File1.O:Open1.Caption">
+        <source>'서버 연결 종료'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:Open1.ShortCut" resname="O:Form1.O:Menu1.O:File1.O:Open1.ShortCut">
+        <source>24644</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:Save1.Caption" resname="O:Form1.O:Menu1.O:File1.O:Save1.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:SaveAs1.Caption" resname="O:Form1.O:Menu1.O:File1.O:SaveAs1.Caption">
+        <source>'신규...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N1.Caption" resname="O:Form1.O:Menu1.O:File1.O:N1.Caption">
+        <source>'열기...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N3.Caption" resname="O:Form1.O:Menu1.O:File1.O:N3.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N4.Caption" resname="O:Form1.O:Menu1.O:File1.O:N4.Caption">
+        <source>'화면녹화 시작'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N5.Caption" resname="O:Form1.O:Menu1.O:File1.O:N5.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N6.Caption" resname="O:Form1.O:Menu1.O:File1.O:N6.Caption">
+        <source>'시스템 관리...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N7.Caption" resname="O:Form1.O:Menu1.O:File1.O:N7.Caption">
+        <source>'사용자 관리...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N8.Caption" resname="O:Form1.O:Menu1.O:File1.O:N8.Caption">
+        <source>'내부 설정...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N9.Caption" resname="O:Form1.O:Menu1.O:File1.O:N9.Caption">
+        <source>'시스템 감사...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N10.Caption" resname="O:Form1.O:Menu1.O:File1.O:N10.Caption">
+        <source>'즐겨찾기 로그...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N11.Caption" resname="O:Form1.O:Menu1.O:File1.O:N11.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N12.Caption" resname="O:Form1.O:Menu1.O:File1.O:N12.Caption">
+        <source>'장치 추가...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N13.Caption" resname="O:Form1.O:Menu1.O:File1.O:N13.Caption">
+        <source>'시스템 병합...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N14.Caption" resname="O:Form1.O:Menu1.O:File1.O:N14.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N15.Caption" resname="O:Form1.O:Menu1.O:File1.O:N15.Caption">
+        <source>'정보...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N16.Caption" resname="O:Form1.O:Menu1.O:File1.O:N16.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Menu1.O:File1.O:N17.Caption" resname="O:Form1.O:Menu1.O:File1.O:N17.Caption">
+        <source>'나가기'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564583</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ImgList1.Left" resname="O:Form1.O:ImgList1.Left">
+        <source>56</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TImageList</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ImgList1.Top" resname="O:Form1.O:ImgList1.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TImageList</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:ImgList1.Bitmap" resname="O:Form1.O:ImgList1.Bitmap">
+        <source>494C010102000800040010001000FFFFFFFFFF10FFFFFFFFFFFFFFFF424D360000000000000036000000280000004000000010000000010020000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000F0C534FBEFC534FBEFC534FBEFC534FBEFC534FBEFC534FBEFC534FBEFC534FBEFC534FBEFC534FBEFC534FBEFC534FBEFC534FBF0C534FB0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFFFBD033FF0000000000000000000000180000004400000044000000440000004400000044000000440000004400000044000000440000004400000044000000440000002700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFFFBD033FF0000000000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000027000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFFFBD033FF0000000000000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000018000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFFFFD734FF17000AFF24080CFF24080CFF25090CFFEFC431FFF2C731FF24080CFF24080CFF24080CFFFBD033FF0000000000000000000000030000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000000700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFFF6CA32FF18000AFF24080CFF24080CFF260A0CFF270A0CFF160009FFF8CC32FF24080CFF24080CFFFBD033FF0000000000000000000000180000004400000044000000440000004400000044000000440000004400000044000000440000004400000044000000440000002700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFFF6CA32FF0E0008FF260A0CFF24080CFF24080CFF3A1D10FFF0C531FF2C100EFF24080CFF24080CFFFBD033FF0000000000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000027000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFFF6CA32FFF4C932FFF4C832FFEEC331FF260A0CFFF0C531FF25090CFF24080CFF24080CFF24080CFFFBD033FF0000000000000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000018000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFFF6CA32FF17000AFF24080CFFF0C531FF25090CFFF0C531FFEFC431FF654518FF24080CFF24080CFFFBD033FF0000000000000000000000030000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000000700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFFF6CA32FF17000AFF270B0DFFF0C531FF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFFFBD033FF0000000000000000000000180000004400000044000000440000004400000044000000440000004400000044000000440000004400000044000000440000002700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFFF2C731FFEEC331FFEDC230FF16000AFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFFFBD033FF0000000000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000027000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFFFBD033FF0000000000000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000018000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000B79231F124080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFF24080CFFFBD033FF0000000000000000000000030000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000000700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000F0C531FFF1C631FFF1C631FFF1C631FFF1C631FFF1C631FFF1C631FFF1C631FFF1C631FFF1C631FFF1C631FFF1C631FFF1C631FFF0C531FF0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000424D3E000000000000003E0000002800000040000000100000000100010000000000800000000000000000000000000000000000000000000000FFFFFF00FFFFFFFF000000008001FFFF000000008001000000000000800100000000000080010000000000008001000000000000800100000000000080010000000000008001000000000000800100000000000080010000000000008001000000000000800100000000000080010000000000008001FFFF00000000FFFFFFFF0000000000000000000000000000000000000000000000000000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TImageList</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:PopMe1.Left" resname="O:Form1.O:PopMe1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TPopupMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:PopMe1.Top" resname="O:Form1.O:PopMe1.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TPopupMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:PopMe1.O:dsadsa1.Caption" resname="O:Form1.O:PopMe1.O:dsadsa1.Caption">
+        <source>'dsadsa'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:PopMe1.O:dsadsa1.O:[0]TMenuItem." resname="O:Form1.O:PopMe1.O:dsadsa1.O:[0]TMenuItem.">
+        <source></source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">0</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:PopMe1.O:N18.Caption" resname="O:Form1.O:PopMe1.O:N18.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:PopMe1.O:dsadsa2.Caption" resname="O:Form1.O:PopMe1.O:dsadsa2.Caption">
+        <source>'dsadsa'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:PopMe1.O:N2.Caption" resname="O:Form1.O:PopMe1.O:N2.Caption">
+        <source>'-'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">44488.5945564699</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

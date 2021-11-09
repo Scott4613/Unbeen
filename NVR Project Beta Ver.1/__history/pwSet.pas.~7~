@@ -1,0 +1,82 @@
+unit pwSet;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls,
+  Vcl.CheckLst, Vcl.Buttons, Vcl.Grids, Vcl.ValEdit, Vcl.ComCtrls,
+  System.ImageList, Vcl.ImgList;
+
+type
+  TForm3 = class(TForm)
+    pnPassSCtr: TPanel;
+    pnPassSBtm: TPanel;
+    pnPassSTop: TPanel;
+    btnBack: TBitBtn;
+    btnNext: TBitBtn;
+    VPass: TCheckBox;
+    Edit2: TEdit;
+    Edit3: TEdit;
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    Label5: TLabel;
+    Label6: TLabel;
+    procedure FormCreate(Sender: TObject);
+    procedure FormResize(Sender: TObject);
+    procedure btnBackClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form3: TForm3;
+  OldWidth, OldHeight: Integer;
+implementation
+
+{$R *.dfm}
+
+uses Unit1;
+
+procedure TForm3.btnBackClick(Sender: TObject);
+begin
+  Form1 := TForm1.Create(Application);
+  if Form1.ShowModal = mrOk then
+  Form1.Free;
+end;
+
+procedure TForm3.FormCreate(Sender: TObject);
+begin
+    OldHeight := Height;
+    OldWidth := Width;
+end;
+
+procedure TForm3.FormResize(Sender: TObject);
+var
+  i: Integer;
+  x, y, t: real;
+begin
+  for i := 0 to ComponentCount -1 do
+    begin
+      if(Components[i] is TEdit) then
+      begin
+        x := OldWidth / Width;
+        y := OldHeight / Height;
+        t := TEdit(Components[i]).Top;
+        TEdit(Components[i]).Top := Trunc(t / y);
+        t := TControl(Components[i]).Left;
+        TEdit(Components[i]).Left := Trunc(t / x);
+        T := TControl(Components[i]).Height;
+        TEdit(Components[i]).Height := Trunc(t / y);
+        T := TControl(Components[i]).Width;
+        TEdit(Components[i]).Width := Trunc(t / x);
+      end;
+    end;
+    OldHeight := Height;
+    OldWidth := Width;
+end;
+end.

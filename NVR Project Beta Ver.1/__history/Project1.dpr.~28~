@@ -1,0 +1,30 @@
+program Project1;
+
+uses
+  Forms,
+  Unit1 in 'Unit1.pas' {Form1},
+  Vcl.Themes,
+  Vcl.Styles,
+  sysMgmt in 'sysMgmt.pas' {FormSysMgmt},
+  CameraGroup in 'CameraGroup.pas' {Form6},
+  User in 'User.pas' {FormUser},
+  InSetting in 'InSetting.pas' {FormInSet},
+  AddDevice in 'AddDevice.pas' {FormAddDevice},
+  NewWebPage in 'NewWebPage.pas' {FormNewWebPage},
+  Unit3 in 'Unit3.pas' {Form3};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFormAddDevice, FormAddDevice);
+  Application.CreateForm(TFormSysMgmt, FormSysMgmt);
+  Application.CreateForm(TFormUser, FormUser);
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TFormNewWebPage, FormNewWebPage);
+  Application.CreateForm(TFormInSet, FormInSet);
+  Application.CreateForm(TForm6, Form6);
+  Application.CreateForm(TForm3, Form3);
+  Application.Run;
+end.

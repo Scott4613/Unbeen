@@ -1,0 +1,212 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2?'
+  ClientHeight = 537
+  ClientWidth = 609
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnActivate = FormActivate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object TPanel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 609
+    Height = 272
+    Align = alTop
+    ParentBackground = False
+    TabOrder = 0
+    ExplicitWidth = 589
+  end
+  object TPanel2: TPanel
+    Left = 0
+    Top = 272
+    Width = 609
+    Height = 194
+    Align = alClient
+    ParentBackground = False
+    TabOrder = 1
+    ExplicitTop = 266
+    object Label1: TLabel
+      Left = 10
+      Top = 44
+      Width = 53
+      Height = 16
+      Caption = #51217#49549' '#50741#49496':'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object Label2: TLabel
+      Left = 29
+      Top = 69
+      Width = 33
+      Height = 16
+      Caption = #54840#49828#53944
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clBlack
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object Label3: TLabel
+      Left = 30
+      Top = 103
+      Width = 33
+      Height = 16
+      Caption = #47196#44536#51064
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object Label4: TLabel
+      Left = 19
+      Top = 137
+      Width = 44
+      Height = 16
+      Caption = #48708#48128#48264#54840
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object cmbServer: TComboBox
+      Left = 10
+      Top = 12
+      Width = 385
+      Height = 26
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -15
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+      TabOrder = 0
+      Text = 'cmbServer'
+      OnClick = cmbServerClick
+    end
+    object BitBtn1: TBitBtn
+      Left = 412
+      Top = 11
+      Width = 75
+      Height = 28
+      Caption = #51200#51109'...'
+      Enabled = False
+      TabOrder = 1
+    end
+    object BitBtn2: TBitBtn
+      Left = 502
+      Top = 11
+      Width = 79
+      Height = 28
+      Caption = #49325#51228
+      TabOrder = 2
+    end
+    object edHost: TEdit
+      Left = 68
+      Top = 64
+      Width = 385
+      Height = 24
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      MaxLength = 22
+      ParentFont = False
+      TabOrder = 3
+      Text = '127.0.0.1'
+    end
+    object edID: TEdit
+      Left = 69
+      Top = 100
+      Width = 512
+      Height = 24
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      MaxLength = 385
+      ParentFont = False
+      TabOrder = 4
+      Text = 'admin'
+    end
+    object Edit3: TEdit
+      Left = 69
+      Top = 134
+      Width = 427
+      Height = 24
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+      TabOrder = 5
+    end
+    object UpDown1: TUpDown
+      Left = 563
+      Top = 65
+      Width = 17
+      Height = 26
+      TabOrder = 6
+    end
+    object CheckBox1: TCheckBox
+      Left = 69
+      Top = 164
+      Width = 97
+      Height = 17
+      Caption = #51088#46041' '#47196#44536#51064
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+      TabOrder = 7
+    end
+    object Edit4: TEdit
+      Left = 502
+      Top = 66
+      Width = 63
+      Height = 24
+      TabOrder = 8
+      Text = '7001'
+    end
+    object btnTest: TBitBtn
+      Left = 502
+      Top = 133
+      Width = 79
+      Height = 26
+      Caption = #53580#49828#53944
+      TabOrder = 9
+    end
+  end
+  object pnBottom: TPanel
+    Left = 0
+    Top = 466
+    Width = 609
+    Height = 71
+    Align = alBottom
+    TabOrder = 2
+    ExplicitTop = 400
+    ExplicitWidth = 589
+  end
+end

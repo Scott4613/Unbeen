@@ -1,0 +1,29 @@
+unit CameraDel;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, AdvToolBtn, Vcl.ExtCtrls;
+
+type
+  TFormCameraDel = class(TForm)
+    pnUserBtm: TPanel;
+    Panel1: TPanel;
+    btnCancel: TAdvToolButton;
+    AdvToolButton1: TAdvToolButton;
+    Image1: TImage;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormCameraDel: TFormCameraDel;
+
+implementation
+
+{$R *.dfm}
+
+end.

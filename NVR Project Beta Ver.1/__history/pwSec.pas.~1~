@@ -1,0 +1,39 @@
+unit pwSec;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls, Vcl.Buttons;
+
+type
+  TForm4 = class(TForm)
+    pnPWSecTop: TPanel;
+    pnPWSecCtr: TPanel;
+    pnPWSecBtm: TPanel;
+    BitBtn1: TBitBtn;
+    BitBtn2: TBitBtn;
+    Label7: TLabel;
+    Label8: TLabel;
+    ComboBox1: TComboBox;
+    ListBox1: TListBox;
+    procedure ComboBox1Change(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form4: TForm4;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm4.ComboBox1Change(Sender: TObject);
+begin
+   ComboBox1.Items.AddObject('90¿œ',TObject(0001));
+end;
+
+end.

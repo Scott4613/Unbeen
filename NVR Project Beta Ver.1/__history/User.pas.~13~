@@ -1,0 +1,54 @@
+unit User;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls, Vcl.ComCtrls,
+  AdvEdit, advlued, AdvCombo;
+
+type
+  TFormUser = class(TForm)
+    pnUserTop: TPanel;
+    pnUserCtr: TPanel;
+    pnUserBtm: TPanel;
+    ListView1: TListView;
+    ListView2: TListView;
+    LblAuthNewLicense: TLabel;
+    edNWPName: TAdvLUEdit;
+    cbBGKind: TAdvComboBox;
+    Label1: TLabel;
+    procedure edNWPNameClick(Sender: TObject);
+    procedure edNWPNameExit(Sender: TObject);
+
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormUser: TFormUser;
+
+implementation
+
+{$R *.dfm}
+
+
+
+
+
+
+
+procedure TFormUser.edNWPNameClick(Sender: TObject);
+begin
+    (Sender as TAdvLUEdit).Text:=''
+end;
+
+procedure TFormUser.edNWPNameExit(Sender: TObject);
+begin
+   if (Sender as TAdvLUEdit).Text='' then
+    (Sender as TAdvLUEdit).Text:='새 사용자 이름';
+end;
+
+end.

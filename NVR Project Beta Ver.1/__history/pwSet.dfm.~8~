@@ -1,0 +1,163 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  BorderStyle = bsSingle
+  Caption = #49444#51221
+  ClientHeight = 353
+  ClientWidth = 523
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  OnResize = FormResize
+  PixelsPerInch = 96
+  TextHeight = 16
+  object pnPWSetTop: TPanel
+    Left = 0
+    Top = 0
+    Width = 523
+    Height = 113
+    Margins.Left = 5
+    Margins.Top = 5
+    Margins.Right = 5
+    Margins.Bottom = 5
+    Align = alTop
+    BevelOuter = bvNone
+    TabOrder = 0
+    ExplicitWidth = 525
+    object Label7: TLabel
+      Left = 54
+      Top = 35
+      Width = 108
+      Height = 23
+      Caption = #48708#48128#48264#54840' '#49444#51221
+      Font.Charset = ANSI_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -19
+      Font.Name = 'Tahoma'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+    object Label8: TLabel
+      Left = 54
+      Top = 72
+      Width = 290
+      Height = 16
+      Caption = #44288#47532#51088' '#48708#48128#48264#54840' '#49444#51221' - '#52488#44592' '#48708#48128#48264#54840' '#49444#51221#51060' '#54596#50836#54633#45768#45796'.'
+    end
+  end
+  object pnPWSetCtr: TPanel
+    Left = 0
+    Top = 113
+    Width = 523
+    Height = 198
+    Margins.Left = 5
+    Margins.Top = 5
+    Margins.Right = 5
+    Margins.Bottom = 5
+    Align = alClient
+    BevelOuter = bvNone
+    TabOrder = 1
+    ExplicitTop = 111
+    ExplicitWidth = 525
+    ExplicitHeight = 188
+    object Label1: TLabel
+      Left = 54
+      Top = 22
+      Width = 33
+      Height = 16
+      Caption = #50500#51060#46356
+    end
+    object Label2: TLabel
+      Left = 54
+      Top = 57
+      Width = 44
+      Height = 16
+      Caption = #48708#48128#48264#54840
+    end
+    object Label3: TLabel
+      Left = 54
+      Top = 91
+      Width = 70
+      Height = 16
+      Caption = #48708#48128#48264#54840' '#54869#51064
+    end
+    object Label6: TLabel
+      Left = 181
+      Top = 22
+      Width = 35
+      Height = 16
+      Caption = 'admin'
+    end
+    object VPass: TCheckBox
+      Left = 181
+      Top = 120
+      Width = 108
+      Height = 20
+      Margins.Left = 5
+      Margins.Top = 5
+      Margins.Right = 5
+      Margins.Bottom = 5
+      Caption = 'View Password'
+      TabOrder = 0
+    end
+    object Edit2: TEdit
+      Left = 181
+      Top = 54
+      Width = 209
+      Height = 24
+      TabOrder = 1
+    end
+    object Edit3: TEdit
+      Left = 181
+      Top = 88
+      Width = 209
+      Height = 24
+      TabOrder = 2
+    end
+  end
+  object pnPWSetBtm: TPanel
+    Left = 0
+    Top = 311
+    Width = 523
+    Height = 42
+    Margins.Left = 5
+    Margins.Top = 5
+    Margins.Right = 5
+    Margins.Bottom = 5
+    Align = alBottom
+    Anchors = [akLeft, akRight]
+    BevelOuter = bvNone
+    TabOrder = 2
+    ExplicitTop = 473
+    ExplicitWidth = 617
+    object btnBack: TBitBtn
+      Left = 324
+      Top = 8
+      Width = 91
+      Height = 28
+      Margins.Left = 5
+      Margins.Top = 5
+      Margins.Right = 5
+      Margins.Bottom = 5
+      Caption = 'Back'
+      TabOrder = 0
+    end
+    object btnNext: TBitBtn
+      Left = 425
+      Top = 8
+      Width = 92
+      Height = 28
+      Margins.Left = 5
+      Margins.Top = 5
+      Margins.Right = 5
+      Margins.Bottom = 5
+      Caption = 'Next'
+      TabOrder = 1
+    end
+  end
+end

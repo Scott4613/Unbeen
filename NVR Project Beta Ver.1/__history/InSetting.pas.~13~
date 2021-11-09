@@ -1,0 +1,61 @@
+unit InSetting;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, AdvPageControl,
+  Vcl.ComCtrls, editlist, Vcl.StdCtrls, Vcl.Grids, Vcl.ValEdit, AdvCombo,
+  AsgCombo, ColorCombo, ColCombo, AdvTreeComboBox, Vcl.FileCtrl, Lucombo,
+  AdvGrid, AsgLinks, AdvSmoothListBox, AdvSmoothComboBox, AdvToolBtn,
+  AdvSmoothButton, AdvSmoothToggleButton, AdvEdit, advlued, Vcl.Mask, AdvSpin,
+  AdvOfficeButtons, DBAdvOfficeButtons;
+
+type
+  TFormInSet = class(TForm)
+    InSet: TAdvPageControl;
+    InSetNormal: TAdvTabSheet;
+    InSetNotice: TAdvTabSheet;
+    pnInSetNorMediaSave: TPanel;
+    pbInSetBackGround: TPanel;
+    pnInSerNorFavoriTour: TPanel;
+    pnInSetNorCheckBox: TPanel;
+    pnInSetBtm: TPanel;
+    LblNormalSysInfo: TLabel;
+    LblBackImage: TLabel;
+    LblfavoriTour: TLabel;
+    EditListBox1: TEditListBox;
+    AdvToolButton3: TAdvToolButton;
+    Panel1: TPanel;
+    AdvToolButton4: TAdvToolButton;
+    AdvToolButton5: TAdvToolButton;
+    Label1: TLabel;
+    edAuthLicense: TAdvLUEdit;
+    LblsysinfoSysIPInfo: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    AdvSpinEdit2: TAdvSpinEdit;
+    cbNormalSecu1: TDBAdvOfficeCheckBox;
+    DBAdvOfficeCheckBox1: TDBAdvOfficeCheckBox;
+    DBAdvOfficeCheckBox2: TDBAdvOfficeCheckBox;
+    AdvToolButton2: TAdvToolButton;
+    AdvToolButton6: TAdvToolButton;
+    AdvToolButton7: TAdvToolButton;
+    AdvSpinEdit1: TAdvSpinEdit;
+    AdvComboBox1: TAdvComboBox;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormInSet: TFormInSet;
+
+implementation
+
+{$R *.dfm}
+
+
+
+end.

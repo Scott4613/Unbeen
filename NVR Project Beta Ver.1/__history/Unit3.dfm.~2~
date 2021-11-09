@@ -1,0 +1,49 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Form3'
+  ClientHeight = 386
+  ClientWidth = 243
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object DateTimePicker1: TDateTimePicker
+    Left = 24
+    Top = 104
+    Width = 186
+    Height = 21
+    Date = 44488.000000000000000000
+    Time = 0.550045798612700300
+    TabOrder = 0
+  end
+  object MonthCalendar1: TMonthCalendar
+    Left = 8
+    Top = 131
+    Width = 218
+    Height = 160
+    Date = 44488.000000000000000000
+    TabOrder = 1
+  end
+  object BitBtn1: TBitBtn
+    Left = 8
+    Top = 297
+    Width = 75
+    Height = 25
+    Caption = 'BitBtn1'
+    TabOrder = 2
+  end
+  object BitBtn2: TBitBtn
+    Left = 151
+    Top = 297
+    Width = 75
+    Height = 25
+    Caption = 'BitBtn2'
+    TabOrder = 3
+  end
+end

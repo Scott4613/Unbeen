@@ -1,0 +1,36 @@
+unit User;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls, Vcl.ComCtrls;
+
+type
+  TForm7 = class(TForm)
+    pnUserTop: TPanel;
+    pnUserCtr: TPanel;
+    pnUserBtm: TPanel;
+    ListView1: TListView;
+    ListView2: TListView;
+
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form7: TForm7;
+
+implementation
+
+{$R *.dfm}
+
+
+
+
+
+
+
+end.

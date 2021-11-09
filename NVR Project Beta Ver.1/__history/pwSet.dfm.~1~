@@ -1,0 +1,114 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = #49444#51221
+  ClientHeight = 515
+  ClientWidth = 617
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 16
+  object pnPassSTop: TPanel
+    Left = 0
+    Top = 0
+    Width = 617
+    Height = 169
+    Margins.Left = 5
+    Margins.Top = 5
+    Margins.Right = 5
+    Margins.Bottom = 5
+    Align = alTop
+    TabOrder = 0
+  end
+  object pnPassSCtr: TPanel
+    Left = 0
+    Top = 169
+    Width = 617
+    Height = 304
+    Margins.Left = 5
+    Margins.Top = 5
+    Margins.Right = 5
+    Margins.Bottom = 5
+    Align = alClient
+    TabOrder = 1
+    ExplicitTop = 152
+    ExplicitHeight = 321
+    object VPass: TCheckBox
+      Left = 142
+      Top = 186
+      Width = 108
+      Height = 20
+      Margins.Left = 5
+      Margins.Top = 5
+      Margins.Right = 5
+      Margins.Bottom = 5
+      Caption = 'View Password'
+      TabOrder = 0
+    end
+    object Edit2: TEdit
+      Left = 263
+      Top = 78
+      Width = 134
+      Height = 24
+      Margins.Left = 5
+      Margins.Top = 5
+      Margins.Right = 5
+      Margins.Bottom = 5
+      TabOrder = 1
+      Text = 'Edit2'
+    end
+    object Edit3: TEdit
+      Left = 263
+      Top = 122
+      Width = 134
+      Height = 24
+      Margins.Left = 5
+      Margins.Top = 5
+      Margins.Right = 5
+      Margins.Bottom = 5
+      TabOrder = 2
+      Text = 'Edit3'
+    end
+  end
+  object pnPassSBtm: TPanel
+    Left = 0
+    Top = 473
+    Width = 617
+    Height = 42
+    Margins.Left = 5
+    Margins.Top = 5
+    Margins.Right = 5
+    Margins.Bottom = 5
+    Align = alBottom
+    TabOrder = 2
+    object btnBack: TBitBtn
+      Left = 419
+      Top = 7
+      Width = 91
+      Height = 28
+      Margins.Left = 5
+      Margins.Top = 5
+      Margins.Right = 5
+      Margins.Bottom = 5
+      Caption = 'Back'
+      TabOrder = 0
+    end
+    object btnNext: TBitBtn
+      Left = 516
+      Top = 7
+      Width = 92
+      Height = 28
+      Margins.Left = 5
+      Margins.Top = 5
+      Margins.Right = 5
+      Margins.Bottom = 5
+      Caption = 'Next'
+      TabOrder = 1
+    end
+  end
+end

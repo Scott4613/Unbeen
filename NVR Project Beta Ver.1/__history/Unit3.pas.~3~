@@ -1,0 +1,38 @@
+unit Unit3;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Buttons, Vcl.ComCtrls;
+
+type
+  TForm3 = class(TForm)
+    DateTimePicker1: TDateTimePicker;
+    MonthCalendar1: TMonthCalendar;
+    BitBtn1: TBitBtn;
+    BitBtn2: TBitBtn;
+    procedure BitBtn2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form3: TForm3;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm3.BitBtn2Click(Sender: TObject);
+begin
+    Form3:=TForm3.Create(Application);
+    if Form3.ShowModal = mrOk then
+      Caption :=
+      FormatDatetime('yyyy-mmmm-dd hh:nn:ss',Form3.DateTimePicker1.Date);
+    Form3.Free;
+end;
+
+end.

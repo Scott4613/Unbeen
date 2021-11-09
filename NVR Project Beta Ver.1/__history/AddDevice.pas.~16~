@@ -1,0 +1,74 @@
+unit AddDevice;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, AdvToolBtn, Vcl.StdCtrls, Vcl.ExtCtrls,
+  AdvPageControl, Vcl.ComCtrls, AdvEdit, advlued, AdvCombo, AdvOfficeButtons;
+
+type
+  TFormAddDevice = class(TForm)
+    pgAddLocal: TAdvPageControl;
+    pgAddDevice: TAdvTabSheet;
+    pnADTop: TPanel;
+    LblADNetSearch: TLabel;
+    pnADCtr: TPanel;
+    InSetNotice: TAdvTabSheet;
+    LblADNetRange1: TLabel;
+    LblADNetRange2: TLabel;
+    LblADHyphen: TLabel;
+    LblADInfo: TLabel;
+    LblADLogin: TLabel;
+    LblADPass: TLabel;
+    edADLogin: TAdvLUEdit;
+    edADPass: TAdvLUEdit;
+    pnADList: TPanel;
+    LblADPort: TLabel;
+    edADPort: TAdvLUEdit;
+    btnADSearch: TAdvToolButton;
+    btnADSearchCondiAd: TAdvToolButton;
+    btnADDeviceAd: TAdvToolButton;
+    pnLDTop: TPanel;
+    LblLDNetSearch: TLabel;
+    LblLDInfo: TLabel;
+    LblLDLogin: TLabel;
+    LblLDPass: TLabel;
+    LblLDPort: TLabel;
+    edLDLogin: TAdvLUEdit;
+    edLDPass: TAdvLUEdit;
+    edLDPort: TAdvLUEdit;
+    pnLDCtr: TPanel;
+    btnLDSearch: TAdvToolButton;
+    btnLDSearchCondiAd: TAdvToolButton;
+    btnLDDeviceAd: TAdvToolButton;
+    pnLDList: TPanel;
+    AdvLUEdit1: TAdvLUEdit;
+    cbBGKind: TAdvComboBox;
+    Label1: TLabel;
+    AdvOfficeCheckBox1: TAdvOfficeCheckBox;
+    cbPortDefault: TAdvOfficeCheckBox;
+    procedure cbPortDefaultClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormAddDevice: TFormAddDevice;
+
+implementation
+
+{$R *.dfm}
+
+procedure TFormAddDevice.cbPortDefaultClick(Sender: TObject);
+begin
+      if cbPortDefault.Checked=false then
+         edLDPort.Text:='80';
+      
+
+end;
+
+
+end.
